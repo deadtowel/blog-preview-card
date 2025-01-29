@@ -19,7 +19,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://github.com/deadtowel/blog-preview-card
-- Live Site URL: #
+- Live Site URL: https://blog-preview-card-delta-mauve.vercel.app/
 
 ### Built with
 
